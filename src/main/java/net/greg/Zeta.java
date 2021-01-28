@@ -6,7 +6,7 @@ import java.util.*;
 
 public class Zeta {
 
-	public static void main(String ... any) {
+	public static void main(String [] any) {
 
     System.err.println("\n\n\u001B[32mOk\u001B[0m\n\nZETA");
 
